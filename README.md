@@ -14,7 +14,7 @@
 
 | 常用的程式語言 | GitHub 統計數據 |
 | :--: | :--: |
-| ![常用的程式語言][stats-top-langs] | ![GitHub 統計數據][stats-theme-vue] |
+| [![常用的程式語言][stats-top-langs]][url-github] | [![GitHub 統計數據][stats-theme-vue]][url-github] |
 
 </div>
 
