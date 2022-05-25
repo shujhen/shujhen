@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Anna Dong.</h1>
 
-  <p><code>Frontend Web Developer</code></p>
+`Junior Frontend Web Developer`
 
-  <p>你好，我是 Anna Dong，從 <code>PHP</code> 後端工程師轉職前端工程師，<br />
-  正努力鑽研前端技術，向成為高階前端工程師邁進。</p>
+  <p>目前是初階前端工程師，<br />
+  正努力鑽研前端技術，向高階前端工程師邁進。</p>
 
 
 [![Website][shields-Website]][url-website]
