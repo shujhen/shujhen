@@ -27,7 +27,11 @@
 - 預計學習：<code>Tailwind CSS</code>、<code>Node.js</code>、<code>React.js</code>
 
 ## 參加過的培訓課程
+
+### 實體課程
 - 上益資訊 / 數位方塊 - [前端工程師暨 JS 框架應用培訓班][url-accupass]
+
+### 線上課程
 - 六角學院 - [2022 公益程式體驗營][url-hexschool]
 - Hahow 好學校 - [動畫互動網頁特效入門（JS/CANVAS）][url-hahow]
 
