@@ -29,7 +29,7 @@
 ## 參加過的培訓課程
 
 ### 實體課程
-- 上益資訊 / 數位方塊 - [前端工程師暨 JS 框架應用培訓班][url-accupass]
+- 上益資訊 / 數位方塊 - [前端工程師暨 JS 框架應用培訓班][url-sunyeh]
 
 ### 線上課程
 - 六角學院 - [2022 公益程式體驗營][url-hexschool]
@@ -42,7 +42,7 @@
 [url-github]:https://github.com/shujhen/
 [url-linkedin]:https://www.linkedin.com/in/shujhendong/
 [url-codepen]:https://codepen.io/collection/xKqNap?grid_type=grid
-[url-accupass]:https://www.accupass.com/event/2201040556321529101714
+[url-sunyeh]:https://its.taiwanjobs.gov.tw/Course/Detail?ID=146386
 [url-hexschool]:https://www.hexschool.com/2022/03/18/2022-03-18-global-welfare/
 [url-hahow]:https://hahow.in/cr/monoame-webdesign2
 
