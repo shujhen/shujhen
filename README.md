@@ -31,6 +31,9 @@
 - 六角學院 - [2022 公益程式體驗營][url-hexschool]
 - Hahow 好學校 - [動畫互動網頁特效入門（JS/CANVAS）][url-hahow]
 
+## 頁面統計數據
+![visitors][badge-visitor]
+
 [url-website]:https://shujhen.github.io/
 [url-github]:https://github.com/shujhen/
 [url-linkedin]:https://www.linkedin.com/in/shujhendong/
@@ -46,3 +49,5 @@
 [shields-GitHub]:https://img.shields.io/badge/GitHub-24292f?logo=github
 [shields-LinkedIn]:https://img.shields.io/badge/LinkedIn-blue?logo=linkedin
 [shields-Codepen]:https://img.shields.io/badge/Codepen-000000?logo=codepen
+
+[badge-visitor]:https://visitor-badge.laobi.icu/badge?page_id=shujhen
