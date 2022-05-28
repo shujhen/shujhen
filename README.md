@@ -28,10 +28,10 @@
 
 ## 相關證書
 ### Coursera
-- [Create an A/B web page marketing test with Google Optimize](https://coursera.org/share/16326d18b1eab8a9c039638f5cc57bfd)
+- Create an A/B web page marketing test with Google Optimize [[course link]](https://www.coursera.org/projects/create-an-a-b-web-page-and-marketing-test-with-google-optimize)
   <details>
     <summary>查看證書</summary>
-    <img src="certificate/Coursera-Certificate-Create-an-AB-web-page-marketing-test-with-Google-Optimize.jpg">
+    <a href="https://www.coursera.org/account/accomplishments/certificate/ZFU7UWMA2L37"><img src="certificate/Coursera-Certificate-Create-an-AB-web-page-marketing-test-with-Google-Optimize.jpg"></a>
   </details>
 
 ## 參加過的培訓課程
