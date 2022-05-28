@@ -26,6 +26,14 @@
 - 學習中：<code>jQuery</code>、<code>Bootstrap 5</code>、<code>Vue 3</code>、<code>GSAP</code>
 - 預計學習：<code>Tailwind CSS</code>、<code>Node.js</code>、<code>React.js</code>
 
+## 相關證書
+### Coursera
+- [Create an A/B web page marketing test with Google Optimize](https://coursera.org/share/16326d18b1eab8a9c039638f5cc57bfd)
+  <details>
+    <summary>查看證書</summary>
+    <img src="certificate/Coursera-Certificate-Create-an-AB-web-page-marketing-test-with-Google-Optimize.jpg">
+  </details>
+
 ## 參加過的培訓課程
 
 ### 實體課程
