@@ -1,7 +1,13 @@
 <div align="center">
-  <h1>Hi, I'm Anna Dong.</h1>
-
-`Junior Frontend Web Developer`
+  <h1>
+    Hi, I'm Shu-Jhen Dong.
+  </h1>
+  <p>
+    You can just call me by my English name, Anna.<br/>
+    Nice to meet you.
+  </p>
+  
+I'm a `Junior Frontend Web Developer`
 
   <p>目前是初階前端工程師，<br />
   正努力鑽研前端技術，向高階前端工程師邁進。</p>
