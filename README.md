@@ -46,7 +46,7 @@ I'm a `Junior Frontend Web Developer`
 - 上益資訊 / 數位方塊 - [前端工程師暨 JS 框架應用培訓班][url-sunyeh]
 
 ### 線上課程
-- 六角學院 - [2022 公益程式體驗營][url-hexschool]
+- 六角學院 - [2022 公益程式體驗營][url-hexschool-experience-camp]、[2023 Node.js 軟體工程師企業專題班][url-hexschool-nodejs]
 - Hahow 好學校 - [動畫互動網頁特效入門（JS/CANVAS）][url-hahow]
 
 ## 頁面統計數據
@@ -57,7 +57,8 @@ I'm a `Junior Frontend Web Developer`
 [url-linkedin]:https://www.linkedin.com/in/shujhendong/
 [url-codepen]:https://codepen.io/collection/xKqNap?grid_type=grid
 [url-sunyeh]:https://its.taiwanjobs.gov.tw/Course/Detail?ID=146386
-[url-hexschool]:https://www.hexschool.com/2022/03/18/2022-03-18-global-welfare/
+[url-hexschool-experience-camp]:https://www.hexschool.com/2022/03/18/2022-03-18-global-welfare/
+[url-hexschool-nodejs]:https://www.hexschool.com/2023/01/31/2023-01-31-nodejs-live-course/
 [url-hahow]:https://hahow.in/cr/monoame-webdesign2
 
 [stats-top-langs]:https://github-readme-stats.vercel.app/api/top-langs/?username=shujhen&layout=compact
