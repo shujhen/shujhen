@@ -47,7 +47,7 @@ I'm a `Junior Frontend Web Developer`
 
 ### 線上課程
 - 六角學院 - [2022 公益程式體驗營][url-hexschool-experience-camp]、[2023 Node.js 軟體工程師企業專題班][url-hexschool-nodejs]
-- Hahow 好學校 - [動畫互動網頁特效入門（JS/CANVAS）][url-hahow]
+- Hahow 好學校 - [動畫互動網頁特效入門（JS/CANVAS）][url-hahow]{:target="_blank"}
 
 ## 頁面統計數據
 ![visitors][badge-visitor]
