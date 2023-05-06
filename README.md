@@ -16,6 +16,7 @@ I'm a `Frontend Web Developer`.
 [![GitHub][shields-GitHub]][url-github]
 [![Codepen][shields-Codepen]][url-codepen]
 [![LinkedIn][shields-LinkedIn]][url-linkedin]
+[![CakeResume][shields-CakeResume]][url-cakeresume]
 
 | 常用的程式語言 | GitHub 統計數據 |
 | :--: | :--: |
@@ -55,6 +56,7 @@ I'm a `Frontend Web Developer`.
 [url-github]:https://github.com/shujhen/
 [url-linkedin]:https://www.linkedin.com/in/shujhendong/
 [url-codepen]:https://codepen.io/collection/xKqNap?grid_type=grid
+[url-cakeresume]:https://www.cakeresume.com/s--enKtr0H7xZCIUWiPZCUZBg--/anna-dong
 [url-sunyeh]:https://its.taiwanjobs.gov.tw/Course/Detail?ID=146386
 [url-hexschool-experience-camp]:https://www.hexschool.com/2022/03/18/2022-03-18-global-welfare/
 [url-hexschool-nodejs]:https://www.hexschool.com/2023/01/31/2023-01-31-nodejs-live-course/
@@ -67,5 +69,6 @@ I'm a `Frontend Web Developer`.
 [shields-GitHub]:https://img.shields.io/badge/GitHub-24292f?logo=github
 [shields-LinkedIn]:https://img.shields.io/badge/LinkedIn-blue?logo=linkedin
 [shields-Codepen]:https://img.shields.io/badge/Codepen-000000?logo=codepen
+[shields-CakeResume]:https://img.shields.io/badge/CakeResume-13ab67
 
 [badge-visitor]:https://visitor-badge.laobi.icu/badge?page_id=shujhen
